@@ -1,0 +1,514 @@
+{ 
+  "gen": 1,
+  "region": "Kanto",
+  "name": "Pokémon Drunkmaster Kanto Edition",
+  "fields": [
+    {
+      "id": 1,
+      "description": "Triff deine Wahl!",
+      "imageName": "1.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 2,
+      "description": "Ratfratz benutzt Tackle! …moment mal, du hast echt nur ne 1 gewürfelt? Du fällst in Ohnmacht, trink aus!",
+      "imageName": "2.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 3,
+      "description": "Taubsi benutzt Ruckzuckhieb! Du nimmst ruckizucki einen Drink und darfst nochmal würfeln!",
+      "imageName": "3.jpg",
+      "path": "/images/",
+      "type": "normal"},
+    {
+      "id": 4,
+      "description": "Raupi benutzt Fadenschuss. Es war sehr effektiv. Alle anderen Spieler dürfen bei ihrem nächsten Wurf nur die Hälfte der Augenzahl vorangehen. (aufrunden)",
+      "imageName": "4.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 5,
+      "description": "Du hast Pikachu gefangen! Trinke 2 und ersetze dein Starter mit diesem laufenden Elektro-Maskottchen.",
+      "imageName": "5.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 6,
+      "description": "Bibor benutzt Duonadel. Wähle zwei Spieler, die trinken müssen.",
+      "imageName": "6.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 7,
+      "description": "Würfle. Gerade: verteile 1. Ungerade: trink 1.",
+      "imageName": "7.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 8,
+      "description": "Wenn du ein Typ bist, trinken alle Typen. Wenn du ein Mädchen bist, trinken alle Mädchen.",
+      "imageName": "8.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 9,
+      "description": "Zubats sind überall! Wenn du in deiner nächsten Runde eine 1 oder 2 würfelst, bleib hier und trink noch einen.",
+      "imageName": "9.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 10,
+      "description": "Pipie benutzt Metronom! Schließe deine Augen und zeige zufällig auf ein Feld. Trink 1 und tu, was es sagt. Wenn nichts getrunken werden muss, trink halt 2.",
+      "imageName": "10.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 11,
+      "description": "Pumeluff benutzt Gesang! Jeder andere schläft ein. Würfle eine extra Runde.",
+      "imageName": "11.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 12,
+      "description": "Abra benutzt Teleport! Du teleportierst zu dem anderen Abra!",
+      "imageName": "12.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 13,
+      "description": "Würfle! Trink die Hälfte und vergib die Hälfte (aufrunden). Was ist das eigentlich für’n Typ?",
+      "imageName": "13.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 14,
+      "description": "Mistys Wasserattacken bringen euch zum Schlucken. Du trinkst zwei, alle anderen trinken einen.",
+      "imageName": "14.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 15,
+      "description": "Flegmon benutzt Risikotackle! Trink einen, oder trinke zwei und vergib einen (du gemeiner Pisser)!",
+      "imageName": "15.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 16,
+      "description": "Knofensa benutzt Rasierblatt. Shreddere die Würde eines Mitspielers mit einer deftigen Beleidigung. Derjenige trinkt einen in Schande.",
+      "imageName": "16.jpg",
+      "path": "/images/",
+      "type": "normal"},
+    {
+      "id": 17,
+      "description": "Mauzi benutzt Zahltag! Jeder außer dir trinkt einen!",
+      "imageName": "17.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 18,
+      "description": "Digda schaufelt tief. Du schaust tief ins Glas. Leer machen!",
+      "imageName": "18.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 19,
+      "description": "Genieß' deine Fahrt auf der M.S. Anne! Würfle eine Zahl, so viele Runden bist du unterwegs! Würfle nochmal, so viele Drinks trinkst du jede Runde, die du hier verbringen musst!",
+      "imageName": "19.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 20,
+      "description": "Würfle! Bei gerader Zahl bist du paralysiert, trink 2 und setze eine Runde aus. Bei ungerader Zahl, trink einen.",
+      "imageName": "20.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 21,
+      "description": "Du bist auf dem Radweg! In der nächsten Runde darfst du die doppelte Anzahl von Feldern zurücklegen!",
+      "imageName": "21.jpg",
+      "path": "/images/",
+      "type": "normal"},
+    {
+      "id": 22,
+      "description": "Karpador benutzt Platscher! Nichts geschieht!",
+      "imageName": "22.jpg",
+      "path": "/images/",
+      "type": "normal"},
+    {
+      "id": 23,
+      "description": "Sandan benutzt Sandwirbel! Deine Genauigkeit sinkt! Für den Rest des Spiels darfst du nur noch mit deiner nicht-dominanten Hand trinken!",
+      "imageName": "23.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 24,
+      "description": "POKÉMON TURM: Während du dich im Pokémon Turm befindest, darfst du aus Respekt vor den Toten nicht reden. Tust du es doch, musst du trinken. Trink jetzt einen zu Ehren deiner gefallenen Kameraden.",
+      "imageName": "24.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 25,
+      "description": "Eine besessene Exorzistin! Jetzt bist auch du besessen! Während du hier stehst, musst du für deine Mitspieler die Getränke einschenken!",
+      "imageName": "25.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 26,
+      "description": "Apollo benutzt Traumfresser! Verschlinge den Traum eines Mitspielers, indem du ihn 10 Felder zurückwirfst!",
+      "imageName": "26.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 27,
+      "description": "Tragosso benutzt Heuler! Erzähle der Gruppe eine traurige Geschichte. Danach trinken alle gemeinsam.",
+      "imageName": "27.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 28,
+      "description": "Sollte sich jetzt ein Spieler im Silph Co. befinden, benutzt du das Silph Scope. Du besiegst den Geist, jeder andere trinkt. Anderenfalls trink drei, um den Tod zu besänftigen.",
+      "imageName": "28.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 29,
+      "description": "Abra benutzt Teleport! Du teleportierst zu dem anderen Abra!",
+      "imageName": "29.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 30,
+      "description": "Ein schlafendes Relaxo versperrt den Weg! Um es zu wecken, müssen alle gemeinsam ein Lied singen. Nachdem Relaxo geweckt ist, muss hier nicht mehr gehalten werden.",
+      "imageName": "30.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 31,
+      "description": "Würfle! Trinke diese Anzahl minus einen. Aber jetzt mal im Ernst, verfolgt dieser Typ dich oder was?",
+      "imageName": "31.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 32,
+      "description": "Evolution! Revolution! Du bestimmst eine Regel. Sie gilt für den Rest des Spiels. Jeder Regelbruch führt zu einem Drink.",
+      "imageName": "32.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 33,
+      "description": "Würfle! 1-3: Stachelspore, setze eine Runde aus. 4-6: Megasauger, exe dein Getränk!",
+      "imageName": "33.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 34,
+      "description": "SPIELHALLE! Fülle beliebig viele Drinks ein. Suche dir einen Gegenspieler aus und würfle mit ihm darum. Jeder hat drei Würfe. Der mit der niedrigeren Gesamtzahl trinkt.",
+      "imageName": "34.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 35,
+      "description": "Fliege zurück zum aktuell Letztplatzierten und fordere ihn dann zum Trainer-Battle heraus. Wenn du das Battle gewinnst, darfst du hierher zurückfliegen. Anderenfalls bleib dort, Looser! Falls du aktuell Letzter bist, trink zwei!",
+      "imageName": "35.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 36,
+      "description": "Porygon benutzt Psystral! Benenne die Anzahl der Drinks, die du trinkst (mindestens einen). Ein zufälliger Mitspieler muss das Doppelte trinken.",
+      "imageName": "36.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 37,
+      "description": "SILPH CO.: Du hast das Hauptquartier von Team Rocket infiltriert! Du wirst deinen ganzen Mut brauchen! Nimm jede Runde im Silph Co. zwei extra Drinks, um deine Nerven zu beruhigen!",
+      "imageName": "37.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 38,
+      "description": "Ein Wissenschaftler benutzt seine Magnet-Pokémon! Du ziehst von jedem Mitspieler einen Drink magnetisch an!",
+      "imageName": "38.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 39,
+      "description": "Lapras benutzt Surfer! Du trägst deinen linken Mitspieler Huckepack eine Runde durch den Raum!",
+      "imageName": "39.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 40,
+      "description": "Es ist Team Rocket! Schau zu, wie sie sich mit Inkompetenz selbst in den Ofen schießen. Alle salutieren und trinken einen!",
+      "imageName": "40.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 41,
+      "description": "Würfle! 1-3: Trinke diese Anzahl. 4-6: Vergib diese Anzahl.",
+      "imageName": "41.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 42,
+      "description": "Sonderbonbon! Level up! Du darfst eine weitere Runde würfeln!",
+      "imageName": "42.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 43,
+      "description": "Würfle und trinke diese Anzahl. Das nächste Mal, wenn du diesen Typen triffst, wird es das letzte Mal sein...",
+      "imageName": "43.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 44,
+      "description": "Mithilfe psychischer Kräfte wählst du eine Zahl. Danach würfelst du. Wenn es deine Zahl ist, hast du eine Extrarunde, wenn nicht, dann trink 2.",
+      "imageName": "44.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 45,
+      "description": "Du bist K.O. gegangen! Gehe um das Doppelte deiner letzten Augenzahl zurück!",
+      "imageName": "45.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 46,
+      "description": "Krabby benutzt Krabbhammer! Bestimme jemanden, der austrinken muss!",
+      "imageName": "46.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 47,
+      "description": "Ditto benutzt Wandler! Während der Runde des nächsten Spielers musst du alles tun, was dieser auch tut.",
+      "imageName": "47.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 48,
+      "description": "Pantimos benutzt Meditation! Der Erste, der von nun an lacht, trinkt zwei!",
+      "imageName": "48.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 49,
+      "description": "SAFARI ZONE! Würfle vor jeder Runde in der Safari Zone einmal. 1-2: Du wirfst einen Köder. Verteile einen Drink an einen Mitspieler. 3-4: Du wirfst einen Stein. Setze die nächste Runde aus und trink 4. 5-6: Du wirfst einen Safari-Ball. Trink zwei, aus Traurigkeit darüber, dass Safari-Bälle scheiße sind.",
+      "imageName": "49.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 50,
+      "description": "Du warst angeln... Ein wildes Dratini! Wenn du eine 1 würfelst, fängst du es, anderenfalls trink einen.",
+      "imageName": "50.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 51,
+      "description": "Ein wildes Tauros taucht auf, aber flieht sofort... Trink zwei, du warst nicht schnell genug!",
+      "imageName": "51.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 52,
+      "description": "Würfle! Bei 1-3 weicht Chaneira dir aus, trink einen. Bei 4-6 hast du es gefangen, verteile zwei Drinks!",
+      "imageName": "52.jpg",
+      "path": "/images/",
+      "type": "area"
+    },
+    {
+      "id": 53,
+      "description": "Gift-Pokémon sind giftig! Besser du entgiftest dich. Trink drei!",
+      "imageName": "53.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 54,
+      "description": "Lektrobal benutzt Explosion! Jeder Spieler austrinken!",
+      "imageName": "54.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 55,
+      "description": "Elektek benutzt Donnerschlag! Du bist paralysiert. Setze die nächste Runde aus!",
+      "imageName": "55.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 56,
+      "description": "Quapsel benutzt Hydropumpe! Shotgun – wer ein Bier exen muss!",
+      "imageName": "56.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 57,
+      "description": "Magmar macht euch Feuer unterm Hintern! Jeder Spieler vor dir trinkt einen!",
+      "imageName": "57.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 58,
+      "description": "Ein wildes Missingno! Würfle dreimal. Bei 5-6 darfst du hier weitermachen. Falls nicht, dann hast du geglitched. Neustart in Alabastia!",
+      "imageName": "58.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 59,
+      "description": "Würfle! Bei gerader Zahl würfle nochmal. Bei ungerader Zahl trink doppelt so viel, wie du zuvor gerade Zahlen gewürfelt hast!",
+      "imageName": "59.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 60,
+      "description": "Enton benutzt Konfusion! Wähle einen Spieler, der die nächsten Runden verwirrt ist und aussetzen muss, es sei denn, er würfelt jetzt eine 1-3.",
+      "imageName": "60.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 61,
+      "description": "Du hast ein fossiles Pokémon entdeckt! Jeder, der älter ist als du, trinkt!",
+      "imageName": "61.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 62,
+      "description": "Würfle! Nenne dein liebstes Pokémon und würfle: 1-3: Glückwunsch! Du hast es gefangen. 4-6: Es ist ausgebrochen und entkommen… Trinke 3.",
+      "imageName": "62.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 63,
+      "description": "Snobilikat benutzt Kratzfurie! Würfle und verteile diese Anzahl von Drinks.",
+      "imageName": "63.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 64,
+      "description": "Nimm zuerst mal einen Drink. Dann, wenn du ein Typ bist, trinken alle Typen drei. Wenn du ein Mädchen bist, trinken alle Mädels drei.",
+      "imageName": "64.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 65,
+      "description": "Ibitak benutzt Spiegeltrick! Trinke, was der Spieler vor dir trinken musste!",
+      "imageName": "65.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 66,
+      "description": "Georok benutzt Einigler. Du setzt zwei Runden aus, musst aber während dieser Zeit nichts trinken.",
+      "imageName": "66.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 67,
+      "description": "Garados benutzt Drachenwut! Nimm 4 Drinks, es sei denn du warst auf Karpador. In diesem Fall vergib 4.",
+      "imageName": "67.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 68,
+      "description": "Dragoran benutzt Hyperstrahl! Verteile 5 Drinks, setze aber die nächste Runde aus. Ausruhen!",
+      "imageName": "68.jpg",
+      "path": "/images/",
+      "type": "normal"
+    },
+    {
+      "id": 69,
+      "description": "Schnapp sie dir alle! Würfle! 1-3: Warum wirfst du den Meisterball? Trink! 4-6: Du hast einen gefangen! Du darfst dieses Feld erst verlassen, nachdem du alle drei Vogel gefangen hast!",
+      "imageName": "69.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 70,
+      "description": "Fordere die Top Vier heraus! Würfle eine 4, um sie zu besiegen! Bei jeder anderen Zahl trink vier!",
+      "imageName": "70.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 71,
+      "description": "Lass dir von einem Mitspieler eine vernünftige Mische einschenken. Du darfst dieses Feld erst verlassen, wenn du die ganze Mische besiegt hast!",
+      "imageName": "71.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 72,
+      "description": "Wirf den Meisterball und nimm einen Triumph-Drink! Alle anderen Spieler trinken einen mit auf dein Wohl! Du bist ein wahrer Pokémon Meister!",
+      "imageName": "72.jpg",
+      "path": "/images/",
+      "type": "trainer"
+    },
+    {
+      "id": 73,
+      "description": "Wild DRINKING GAME appeared! REGELN 1. Würfle und gehe voran. 2. Bei diesen Spiel gibt es nur 151 Pokémon. Warum? Fick dich. Darum 3. Du darfst den Tisch nur verlassen, wenn du nicht an der Reihe bist. Keine Flucht vorm Kampf! 4. Bei Regelbruch muss getrunken werden. 5. Wenn du auf demselben Feld wie ein anderer Spieler landest, fordere ihn zum Trainer-Battle herausfordern! 6. Silbern und goldene Felder haben spezielle Regeln. 7. Viel Glück! Trinke wie ein wahrer Pokémon Meister! GOLDENE FELDER Du musst an jedem goldenen Feld anhalten. Egal ob dich dein Wurf über sie hinaus befördert hätte. SILBERNE FELDER Silberne Felder haben zusätzliche Regeln. Mache dich auf mehr Drinks gefasst! TRAINER-BATTLE Jeder hat einen Wurf. Wer die höhere Zahl würfelt, gewinnt. Der Verlierer trinkt Zwei Unentschieden? Jeder Einen. Manche Pokémon sind stärker als Andere. Der Spieler mit dem stärkeren Pokémon darf zweimal würfeln und den besseren Wurf wählen. Stärkenvergleich nach folgender Tabelle",
+      "imageName": "73_rules.jpg",
+      "path": "/images/",
+      "type": "rules"
+    }
+  ]
+}
